@@ -26,7 +26,3 @@ while True:
         
     except ValueError:
         print('That is not an option, try again.')
-
-    
-
-# functions to convert the units
